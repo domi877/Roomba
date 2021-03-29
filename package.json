@@ -1,0 +1,26 @@
+{
+  "name": "roomba",
+  "version": "1.0.0",
+  "description": "iRobot Management System",
+  "main": "myapp.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./myapp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domi877/Roomba.git"
+  },
+  "author": "Dominik Iffland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domi877/Roomba/issues"
+  },
+  "homepage": "https://github.com/domi877/Roomba#readme",
+  "dependencies": {
+    "mqtt": "^2.15.0",
+    "request": "^2.74.0",
+    "request-promise": "^4.1.1"
+  }
+}
