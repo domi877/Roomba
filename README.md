@@ -12,3 +12,6 @@ export const CREDENTIALS = {
 }
 ```
 If you do not know how to get your credentials, follow the guide by [dorita980 here](https://github.com/koalazak/dorita980#how-to-get-your-usernameblid-and-password).
+
+# Run
+To run you simply have to run the command `npm start`
